@@ -1,7 +1,7 @@
 # Projeto Desenvolvimento Web
  Site Streams
 
- Equipe - Turma 3001 - 4ª feira - (19:00 às 20:40h): 
+ Equipe - Turma 3001 - 4ª feira - (19:00 às 20:40): 
  
 1. Nome: Dangelo Roberto Costa Conegundes
    Matrícula: 202308463985
