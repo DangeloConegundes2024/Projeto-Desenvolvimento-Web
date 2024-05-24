@@ -203,3 +203,23 @@ body{
     color: #121212;
     text-align: justify;
   }
+
+  .youtube-videos {
+    background-color: #939292;
+    padding: 20px;
+  }
+  
+  .video-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .video-container iframe {
+    margin: 20px;
+    width: 560px;
+    height: 315px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
